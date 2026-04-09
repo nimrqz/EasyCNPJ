@@ -3,7 +3,7 @@ import requests
 import time
 import os
 
-arquivoentrada = r'C:\Users\Exata\OneDrive - Exata Tech\Área de Trabalho\Projetos Exata\python_exata\SeguradorasNormalização1.xlsx'
+arquivoentrada = r''
 arquivosaida = 'resultado_final.xlsx'
 
 def tratar_cnpj(cnpj_sujo):
